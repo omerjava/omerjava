@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @omerjava
 - 👀 I’m interested in HTML5, CSS, JavaScript and Java.
-- 🌱 I’m currently learning HTML5, CSS, JavaScript and Java.
+- 🌱 I’m currently learning JavaScript and Java.
 - 💞️ I’m looking to collaborate on Web and Software development projects
 
 
