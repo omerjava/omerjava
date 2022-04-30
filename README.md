@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @omerjava
-- 👀 I’m interested in HTML5, CSS, JavaScript and Java.
+- 👀 I’m interested in HTML5, CSS, JavaScript, React, Bootstrap, Express.js, Node.js, 
+Java, Java Spring, Angular, MySQL and MongoDB.
 - 🌱 I’m currently learning JavaScript and Java.
 - 💞️ I’m looking to collaborate on Web and Software development projects
 
